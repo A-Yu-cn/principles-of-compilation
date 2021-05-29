@@ -1,0 +1,6 @@
+begin:.
+    x = 20; y=0;?
+    while(x>10):
+    begin:  x = x-1;y = y+1;    end []
+    print(x); if(y>5): print(y); @
+end
